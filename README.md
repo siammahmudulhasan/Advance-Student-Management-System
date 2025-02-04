@@ -43,6 +43,4 @@ Feel free to fork the repository and submit pull requests to improve the project
 This project is licensed under the **MIT License**.
 
 ---
-**Author:** Your Name  
-📧 Contact: your.email@example.com
 
